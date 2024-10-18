@@ -1,13 +1,11 @@
-# Snowball Next.js PWA Starter
-
-This is a starter template for a [Next.js](https://nextjs.org) [React](https://react.dev) [PWA](https://web.dev/explore/progressive-web-apps) using [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), and [Snowball](https://snowball.build).
+# swipe web pwa
 
 ## Getting Started
 
 ### Clone the repository
 
 ```zsh
-git clone
+git clone git@github.com:swipe-crypto/web-pwa.git
 ```
 
 ### Installation
